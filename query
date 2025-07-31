@@ -1,0 +1,8 @@
+#query for transactional analytics table
+https://console.cloud.google.com/bigquery?sq=201631573457:bc96fdca46b243c48cd14deb35f156d3
+
+#query for top 5 branch
+https://console.cloud.google.com/bigquery?sq=201631573457:60ce604e162e42808ca143cfabe371ae
+
+#query for top 5 top sell product
+https://console.cloud.google.com/bigquery?sq=201631573457:5e5f1059ce0a40158be6ac4d8c6b893c
